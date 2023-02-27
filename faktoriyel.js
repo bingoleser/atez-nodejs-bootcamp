@@ -13,4 +13,5 @@ function faktoriyel (agr1) {
     
 }
 console.log( faktoriyel(4))
+console.log( faktoriyel(4))
 console.log( faktoriyel("te"))
